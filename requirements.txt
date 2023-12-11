@@ -7,4 +7,4 @@ openai
 langchain
 chromadb==0.4.5
 sentence_transformers
-python==3.10
+python==3.11
