@@ -7,4 +7,3 @@ openai
 langchain
 chromadb
 sentence-transformers
-sqlite == 3.35.0
